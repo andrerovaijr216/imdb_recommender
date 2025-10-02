@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+pycaret
+sentence-transformers
+scipy
+streamlit
+python-dotenv
+requests # Para o TMDB
+openai # Se for usar a API do ChatGPT para sinopses aprimoradas
