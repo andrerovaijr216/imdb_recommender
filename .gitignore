@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv
+
+# Secrets
+.env
+
+# Large or generated files to consider
+# kmeans_bert_model.pkl  # Remova o # se o arquivo for >25MB para Git LFS
+# all_movies_enriched.csv # Se for muito grande
