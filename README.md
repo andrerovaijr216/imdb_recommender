@@ -52,7 +52,7 @@ O projeto foi desenvolvido como parte do Checkpoint #2 do curso, abrangendo a ex
 
 | Entregável | Link |
 | :--- | :--- |
-| **Repositório GitHub** | `[INSERIR LINK DO REPOSITÓRIO AQUI]` |
+| **Repositório GitHub** | `https://github.com/andrerovaijr216/imdb_recommender.git` |
 | **Web App (Deploy Streamlit)** | `(https://imdbrecommender-5qmowd85hdmvjt6xecm5bv.streamlit.app/)` |
 
 ---
