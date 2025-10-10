@@ -61,7 +61,7 @@ O projeto foi desenvolvido como parte do Checkpoint #2 do curso, abrangendo a ex
 
 1.  **Clone o Repositório e Configure o Ambiente Virtual:**
     ```bash
-    git clone [[LINK DO REPOSITÓRIO](https://github.com/andrerovaijr216/imdb_recommender.g)]
+    git clone (https://github.com/andrerovaijr216/imdb_recommender.g)
     cd imdb_recommender
     python3.11 -m venv .venv
     .venv\Scripts\activate # ou source .venv/bin/activate
